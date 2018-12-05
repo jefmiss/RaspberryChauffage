@@ -1,0 +1,44 @@
+.C01
+{
+	position        : fixed;
+	top             : 130px;
+	left            : 120px;
+	background      : #111111;
+    height          : 65px;
+    width           : 200px;
+	font-size       : 60px;
+	color           : #eeeeee;
+}
+
+.C02
+{
+	position        : fixed;
+	top             : 130px;
+	left            : 450px;
+	background      : #111111;
+    height          : 65px;
+    width           : 200px;
+	font-size       : 60px;
+	color           : #eeeeee;
+}
+
+#heure
+{
+	font-size       : 40px;
+	color           : black;
+}
+
+span.red
+{
+	color           : red;
+}
+
+span.blue
+{
+	color           : blue;
+}
+
+span.orange
+{
+	color           : orange;
+}
